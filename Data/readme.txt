@@ -1,5 +1,4 @@
-The input data for both testing the program and biological analysis can be 
-downloaded from 
+The input data for both testing the program and biological analysis can be downloaded from 
 http://www.gru.edu/colleges/medicine/dnrm/faculty/wu/InputTag.zip . 
 The data file is not included in the repository solely due to its size (about 300 MB). 
  
